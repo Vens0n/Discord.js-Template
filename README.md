@@ -8,5 +8,6 @@
 
 ### How to set up
 
+- ### npm i discord.js enmap
 - ### Edit config.json and insert you info
 - ### When you add a command, edit help.json and fill in info
