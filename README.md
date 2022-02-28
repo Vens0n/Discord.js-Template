@@ -1,3 +1,4 @@
+### Outdated Discord.js v12
 # Easy Discord Bot
 `git clone https://github.com/Shawn-Does/Discord.js-Template.git`
 
